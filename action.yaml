@@ -6,3 +6,6 @@ author: 'Alex Coelho'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+    icon: upload-cloud
+    color: gray-dark
