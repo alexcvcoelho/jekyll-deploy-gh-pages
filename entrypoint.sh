@@ -29,7 +29,7 @@ echo "Jekyll build done"
 
 # Now lets go to the generated folder by Jekyll
 # and perform everything else from there
-cd build
+cd _site
 
 echo "☁️ Publishing website"
 
