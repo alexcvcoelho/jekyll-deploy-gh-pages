@@ -1,6 +1,6 @@
 # Our Docker image will be based on ruby:2-slim
 # it is a very light docker image.
-FROM ruby:2.3.0
+FROM ruby:2.4.0
 LABEL author="Alex Coelho"
 LABEL version="1.0.0"
 
