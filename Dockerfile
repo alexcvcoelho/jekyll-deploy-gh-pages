@@ -15,7 +15,6 @@ RUN apt-get update && \
     curl \
     make \
     shellcheck \
-    libffi-dev \
     git-all \
     && gem install bundler:2.1.4 \
     && bundle config --global silence_root_warning 1
